@@ -1,5 +1,3 @@
-#👋 Hi, I’m william
-
 ## 💫 About Me:
 💪I'm currently working on building a portfolio top display all my projects, experiences and more.<br>📖I love to learn new technologies. <br>🎨I also do UI design part time.
 
